@@ -1,0 +1,364 @@
+19:38:36  INFO Starting network with chain id: L2ChainId(260)
+19:38:36  INFO 
+19:38:36  INFO Rich Accounts
+19:38:36  INFO =============
+19:38:36  INFO Account #0: 0xBC989fDe9e54cAd2aB4392Af6dF60f04873A033A ([36m1_000_000_000_000 ETH[0m)
+19:38:36  INFO Private Key: 0x3d3cbc973389cb26f657686445bcc75662b415b656078503592ac8c1abb8810e
+19:38:36  INFO Mnemonic: [38;2;128;128;128mmass wild lava ripple clog cabbage witness shell unable tribe rubber enter[0m
+19:38:36  INFO 
+19:38:36  INFO Account #1: 0x55bE1B079b53962746B2e86d12f158a41DF294A6 ([36m1_000_000_000_000 ETH[0m)
+19:38:36  INFO Private Key: 0x509ca2e9e6acf0ba086477910950125e698d4ea70fa6f63e000c5a22bda9361c
+19:38:36  INFO Mnemonic: [38;2;128;128;128mcrumble clutch mammal lecture lazy broken nominee visit gentle gather gym erupt[0m
+19:38:36  INFO 
+19:38:36  INFO Account #2: 0xCE9e6063674DC585F6F3c7eaBe82B9936143Ba6C ([36m1_000_000_000_000 ETH[0m)
+19:38:36  INFO Private Key: 0x71781d3a358e7a65150e894264ccc594993fbc0ea12d69508a340bc1d4f5bfbc
+19:38:36  INFO Mnemonic: [38;2;128;128;128millegal okay stereo tattoo between alien road nuclear blind wolf champion regular[0m
+19:38:36  INFO 
+19:38:36  INFO Account #3: 0xd986b0cB0D1Ad4CCCF0C4947554003fC0Be548E9 ([36m1_000_000_000_000 ETH[0m)
+19:38:36  INFO Private Key: 0x379d31d4a7031ead87397f332aab69ef5cd843ba3898249ca1046633c0c7eefe
+19:38:36  INFO Mnemonic: [38;2;128;128;128mpoint donor practice wear alien abandon frozen glow they practice raven shiver[0m
+19:38:36  INFO 
+19:38:36  INFO Account #4: 0x87d6ab9fE5Adef46228fB490810f0F5CB16D6d04 ([36m1_000_000_000_000 ETH[0m)
+19:38:36  INFO Private Key: 0x105de4e75fe465d075e1daae5647a02e3aad54b8d23cf1f70ba382b9f9bee839
+19:38:36  INFO Mnemonic: [38;2;128;128;128mgiraffe organ club limb install nest journey client chunk settle slush copy[0m
+19:38:36  INFO 
+19:38:36  INFO Account #5: 0x78cAD996530109838eb016619f5931a03250489A ([36m1_000_000_000_000 ETH[0m)
+19:38:36  INFO Private Key: 0x7becc4a46e0c3b512d380ca73a4c868f790d1055a7698f38fb3ca2b2ac97efbb
+19:38:36  INFO Mnemonic: [38;2;128;128;128mawful organ version habit giraffe amused wire table begin gym pistol clean[0m
+19:38:36  INFO 
+19:38:36  INFO Account #6: 0xc981b213603171963F81C687B9fC880d33CaeD16 ([36m1_000_000_000_000 ETH[0m)
+19:38:36  INFO Private Key: 0xe0415469c10f3b1142ce0262497fe5c7a0795f0cbfd466a6bfa31968d0f70841
+19:38:36  INFO Mnemonic: [38;2;128;128;128mexotic someone fall kitten salute nerve chimney enlist pair display over inside[0m
+19:38:36  INFO 
+19:38:36  INFO Account #7: 0x42F3dc38Da81e984B92A95CBdAAA5fA2bd5cb1Ba ([36m1_000_000_000_000 ETH[0m)
+19:38:36  INFO Private Key: 0x4d91647d0a8429ac4433c83254fb9625332693c848e578062fe96362f32bfe91
+19:38:36  INFO Mnemonic: [38;2;128;128;128mcatch tragic rib twelve buffalo also gorilla toward cost enforce artefact slab[0m
+19:38:36  INFO 
+19:38:36  INFO Account #8: 0x64F47EeD3dC749d13e49291d46Ea8378755fB6DF ([36m1_000_000_000_000 ETH[0m)
+19:38:36  INFO Private Key: 0x41c9f9518aa07b50cb1c0cc160d45547f57638dd824a8d85b5eb3bf99ed2bdeb
+19:38:36  INFO Mnemonic: [38;2;128;128;128marrange price fragile dinner device general vital excite penalty monkey major faculty[0m
+19:38:36  INFO 
+19:38:36  INFO Account #9: 0xe2b8Cb53a43a56d4d2AB6131C81Bd76B86D3AFe5 ([36m1_000_000_000_000 ETH[0m)
+19:38:36  INFO Private Key: 0xb0680d66303a0163a19294f1ef8c95cd69a9d7902a4aca99c05f3e134e68a11a
+19:38:36  INFO Mnemonic: [38;2;128;128;128mincrease pulp sing wood guilt cement satoshi tiny forum nuclear sudden thank[0m
+19:38:36  INFO 
+19:38:36  INFO ========================================
+19:38:36  INFO   Node is ready at 127.0.0.1:8011
+19:38:36  INFO ========================================
+19:38:58  INFO 
+19:38:58  INFO Validating [1m0x6cf5807e59eefacb2ef3c751c7ec970c5ee1dc06630cfa54821f09f1bc878331[0m
+19:38:58  INFO Executing [1m0x6cf5807e59eefacb2ef3c751c7ec970c5ee1dc06630cfa54821f09f1bc878331[0m
+19:38:58  INFO ┌─────────────────────────┐
+19:38:58  INFO │   TRANSACTION SUMMARY   │
+19:38:58  INFO └─────────────────────────┘
+19:38:58  INFO Transaction: [32mSUCCESS[0m
+19:38:58  INFO Initiator: 0xbc989fde9e54cad2ab4392af6df60f04873a033a
+19:38:58  INFO Payer: 0xbc989fde9e54cad2ab4392af6df60f04873a033a
+19:38:58  INFO Gas - Limit: 177_081_408 | Used: 136_226_690 | Refunded: 40_854_718
+19:38:58  INFO Use --show-gas-details flag or call config_setShowGasDetails to display more info
+19:38:58  INFO 
+19:38:58  INFO ==== Console logs: 
+19:38:58  INFO 
+19:38:58  INFO ==== [1m23 call traces. [0m Use --show-calls flag or call config_setShowCalls to display more info.
+19:38:58  INFO 
+19:38:58  INFO ==== [1m6 events[0m
+19:38:58  INFO [34mEthToken System Contract                  [0m
+19:38:58  INFO [38;2;128;128;128m  Topics:[0m
+19:38:58  INFO     0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+19:38:58  INFO     0x000000000000000000000000bc989fde9e54cad2ab4392af6df60f04873a033a
+19:38:58  INFO     0x0000000000000000000000000000000000000000000000000000000000008001
+19:38:58  INFO [38;2;128;128;128m  Data (Hex):[0m 0x000000000000000000000000000000000000000000000000000fba5d74811000
+19:38:58  INFO 
+19:38:58  INFO [34mL1 messenger                              [0m
+19:38:58  INFO [38;2;128;128;128m  Topics:[0m
+19:38:58  INFO     0x27fe8c0b49f49507b9d4fe5968c9f49edfe5c9df277d433a07a0717ede97638d
+19:38:58  INFO [38;2;128;128;128m  Data (Hex):[0m 0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001000000000000000000000000000000000000000000000000000000000000000000000000...
+19:38:58  INFO 
+19:38:58  INFO [34mL1 messenger                              [0m
+19:38:58  INFO [38;2;128;128;128m  Topics:[0m
+19:38:58  INFO     0x3a36e47291f4201faf137fab081d92295bce2d53be2c6ca68ba82c7faa9ce241
+19:38:58  INFO     0x000000000000000000000000000000000000000000000000000000000000800e
+19:38:58  INFO     0x525011c97ce1381c75df9533007e3aa11c1a2180f75742ab647f986070675946
+19:38:58  INFO [38;2;128;128;128m  Data (Hex):[0m 0x000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000008ba00ce0000000000000000ffffffffffffffff000000d000010430000000cf0001042e0000...
+19:38:58  INFO 
+19:38:58  INFO [34mKnown code storage                        [0m
+19:38:58  INFO [38;2;128;128;128m  Topics:[0m
+19:38:58  INFO     0xc94722ff13eacf53547c4741dab5228353a05938ffcdd5d4a2d533ae0e618287
+19:38:58  INFO     0x010000492b255ea2310a72e302c3da0383ef8ebf1e7acf37e54f7e4086c83d81
+19:38:58  INFO     0x0000000000000000000000000000000000000000000000000000000000000000
+19:38:58  INFO [38;2;128;128;128m  Data: EMPTY[0m
+19:38:58  INFO 
+19:38:58  INFO [34mL2 deployer                               [0m
+19:38:58  INFO [38;2;128;128;128m  Topics:[0m
+19:38:58  INFO     0x290afdae231a3fc0bbae8b1af63698b0a1d79b21ad17df0342dfb952fe74f8e5
+19:38:58  INFO     0x000000000000000000000000bc989fde9e54cad2ab4392af6df60f04873a033a
+19:38:58  INFO     0x010000492b255ea2310a72e302c3da0383ef8ebf1e7acf37e54f7e4086c83d81
+19:38:58  INFO     0x0000000000000000000000009c1a3d7c98dbf89c7f5d167f2219c29c2fe775a7
+19:38:58  INFO [38;2;128;128;128m  Data: EMPTY[0m
+19:38:58  INFO 
+19:38:58  INFO [34mEthToken System Contract                  [0m
+19:38:58  INFO [38;2;128;128;128m  Topics:[0m
+19:38:58  INFO     0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+19:38:58  INFO     0x0000000000000000000000000000000000000000000000000000000000008001
+19:38:58  INFO     0x000000000000000000000000bc989fde9e54cad2ab4392af6df60f04873a033a
+19:38:58  INFO [38;2;128;128;128m  Data (Hex):[0m 0x0000000000000000000000000000000000000000000000000003a0edc1d83f80
+19:38:58  INFO 
+19:38:58  INFO 
+19:38:58  INFO Validating [1m0xf5161fea0979c4b7e081b8e46a11af1ce9ca35add8d6a0cb637c63b745dbd3b6[0m
+19:38:58  INFO Executing [1m0xf5161fea0979c4b7e081b8e46a11af1ce9ca35add8d6a0cb637c63b745dbd3b6[0m
+19:38:58  INFO ┌─────────────────────────┐
+19:38:58  INFO │   TRANSACTION SUMMARY   │
+19:38:58  INFO └─────────────────────────┘
+19:38:58  INFO Transaction: [31mFAILED[0m
+19:38:58  INFO Initiator: 0xbc989fde9e54cad2ab4392af6df60f04873a033a
+19:38:58  INFO Payer: 0xbc989fde9e54cad2ab4392af6df60f04873a033a
+19:38:58  INFO Gas - Limit: 30_000_000 | Used: 1_040_443 | Refunded: 28_959_557
+19:38:58  INFO Use --show-gas-details flag or call config_setShowGasDetails to display more info
+19:38:58  INFO 
+19:38:58  INFO ==== Console logs: 
+19:38:58  INFO 
+19:38:58  INFO ==== [1m22 call traces. [0m Use --show-calls flag or call config_setShowCalls to display more info.
+19:38:58  INFO 
+19:38:58  INFO ==== [1m2 events[0m
+19:38:58  INFO [34mEthToken System Contract                  [0m
+19:38:58  INFO [38;2;128;128;128m  Topics:[0m
+19:38:58  INFO     0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+19:38:58  INFO     0x000000000000000000000000bc989fde9e54cad2ab4392af6df60f04873a033a
+19:38:58  INFO     0x0000000000000000000000000000000000000000000000000000000000008001
+19:38:58  INFO [38;2;128;128;128m  Data (Hex):[0m 0x0000000000000000000000000000000000000000000000000002aa1efb94e000
+19:38:58  INFO 
+19:38:58  INFO [34mEthToken System Contract                  [0m
+19:38:58  INFO [38;2;128;128;128m  Topics:[0m
+19:38:58  INFO     0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+19:38:58  INFO     0x0000000000000000000000000000000000000000000000000000000000008001
+19:38:58  INFO     0x000000000000000000000000bc989fde9e54cad2ab4392af6df60f04873a033a
+19:38:58  INFO [38;2;128;128;128m  Data (Hex):[0m 0x00000000000000000000000000000000000000000000000000029276ceb22940
+19:38:58  INFO 
+19:39:46  INFO 
+19:39:46  INFO Validating [1m0xb9ed3b8d5928ea1ad2a63332cb3319466839cfd1d4ad5c7f744277c1231e10aa[0m
+19:39:46  INFO Executing [1m0xb9ed3b8d5928ea1ad2a63332cb3319466839cfd1d4ad5c7f744277c1231e10aa[0m
+19:39:46  INFO ┌─────────────────────────┐
+19:39:46  INFO │   TRANSACTION SUMMARY   │
+19:39:46  INFO └─────────────────────────┘
+19:39:46  INFO Transaction: [32mSUCCESS[0m
+19:39:46  INFO Initiator: 0xbc989fde9e54cad2ab4392af6df60f04873a033a
+19:39:46  INFO Payer: 0xbc989fde9e54cad2ab4392af6df60f04873a033a
+19:39:46  INFO Gas - Limit: 10_865_793 | Used: 8_300_950 | Refunded: 2_564_843
+19:39:46  INFO Use --show-gas-details flag or call config_setShowGasDetails to display more info
+19:39:46  INFO 
+19:39:46  INFO ==== Console logs: 
+19:39:46  INFO 
+19:39:46  INFO ==== [1m21 call traces. [0m Use --show-calls flag or call config_setShowCalls to display more info.
+19:39:46  INFO 
+19:39:46  INFO ==== [1m3 events[0m
+19:39:46  INFO [34mEthToken System Contract                  [0m
+19:39:46  INFO [38;2;128;128;128m  Topics:[0m
+19:39:46  INFO     0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+19:39:46  INFO     0x000000000000000000000000bc989fde9e54cad2ab4392af6df60f04873a033a
+19:39:46  INFO     0x0000000000000000000000000000000000000000000000000000000000008001
+19:39:46  INFO [38;2;128;128;128m  Data (Hex):[0m 0x0000000000000000000000000000000000000000000000000000f70f3d4c9840
+19:39:46  INFO 
+19:39:46  INFO [34mL2 deployer                               [0m
+19:39:46  INFO [38;2;128;128;128m  Topics:[0m
+19:39:46  INFO     0x290afdae231a3fc0bbae8b1af63698b0a1d79b21ad17df0342dfb952fe74f8e5
+19:39:46  INFO     0x000000000000000000000000bc989fde9e54cad2ab4392af6df60f04873a033a
+19:39:46  INFO     0x010000492b255ea2310a72e302c3da0383ef8ebf1e7acf37e54f7e4086c83d81
+19:39:46  INFO     0x000000000000000000000000ceab1fc2693930bbad33024d270598c620d7a52b
+19:39:46  INFO [38;2;128;128;128m  Data: EMPTY[0m
+19:39:46  INFO 
+19:39:46  INFO [34mEthToken System Contract                  [0m
+19:39:46  INFO [38;2;128;128;128m  Topics:[0m
+19:39:46  INFO     0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+19:39:46  INFO     0x0000000000000000000000000000000000000000000000000000000000008001
+19:39:46  INFO     0x000000000000000000000000bc989fde9e54cad2ab4392af6df60f04873a033a
+19:39:46  INFO [38;2;128;128;128m  Data (Hex):[0m 0x00000000000000000000000000000000000000000000000000003a5159e5e2c0
+19:39:46  INFO 
+19:39:47  INFO [31mUnable to estimate gas for the request with our suggested gas limit of 105375000. The transaction is most likely unexecutable. Breakdown of estimation:[0m
+19:39:47  INFO [31m	Estimated transaction body gas cost: 80000000[0m
+19:39:47  INFO [31m	Gas for pubdata: 1050000[0m
+19:39:47  INFO [31m	Overhead: 10000[0m
+19:39:47  INFO [41mexecution reverted: Error function_selector = 0xb0591126, data = 0xb0591126[0m
+19:52:12  INFO 
+19:52:12  INFO Validating [1m0x375c4d5215cdee7194846a172c748fd519e275390ffa90ba8634e881e8ef27b0[0m
+19:52:12  INFO Executing [1m0x375c4d5215cdee7194846a172c748fd519e275390ffa90ba8634e881e8ef27b0[0m
+19:52:12  INFO ┌─────────────────────────┐
+19:52:12  INFO │   TRANSACTION SUMMARY   │
+19:52:12  INFO └─────────────────────────┘
+19:52:12  INFO Transaction: [32mSUCCESS[0m
+19:52:12  INFO Initiator: 0xbc989fde9e54cad2ab4392af6df60f04873a033a
+19:52:12  INFO Payer: 0xbc989fde9e54cad2ab4392af6df60f04873a033a
+19:52:12  INFO Gas - Limit: 10_865_793 | Used: 8_300_950 | Refunded: 2_564_843
+19:52:12  INFO Use --show-gas-details flag or call config_setShowGasDetails to display more info
+19:52:12  INFO 
+19:52:12  INFO ==== Console logs: 
+19:52:12  INFO 
+19:52:12  INFO ==== [1m21 call traces. [0m Use --show-calls flag or call config_setShowCalls to display more info.
+19:52:12  INFO 
+19:52:12  INFO ==== [1m3 events[0m
+19:52:12  INFO [34mEthToken System Contract                  [0m
+19:52:12  INFO [38;2;128;128;128m  Topics:[0m
+19:52:12  INFO     0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+19:52:12  INFO     0x000000000000000000000000bc989fde9e54cad2ab4392af6df60f04873a033a
+19:52:12  INFO     0x0000000000000000000000000000000000000000000000000000000000008001
+19:52:12  INFO [38;2;128;128;128m  Data (Hex):[0m 0x0000000000000000000000000000000000000000000000000000f70f3d4c9840
+19:52:12  INFO 
+19:52:12  INFO [34mL2 deployer                               [0m
+19:52:12  INFO [38;2;128;128;128m  Topics:[0m
+19:52:12  INFO     0x290afdae231a3fc0bbae8b1af63698b0a1d79b21ad17df0342dfb952fe74f8e5
+19:52:12  INFO     0x000000000000000000000000bc989fde9e54cad2ab4392af6df60f04873a033a
+19:52:12  INFO     0x010000492b255ea2310a72e302c3da0383ef8ebf1e7acf37e54f7e4086c83d81
+19:52:12  INFO     0x00000000000000000000000099e12239cbf8112fbb3f7fd473d0558031abcbb5
+19:52:12  INFO [38;2;128;128;128m  Data: EMPTY[0m
+19:52:12  INFO 
+19:52:12  INFO [34mEthToken System Contract                  [0m
+19:52:12  INFO [38;2;128;128;128m  Topics:[0m
+19:52:12  INFO     0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+19:52:12  INFO     0x0000000000000000000000000000000000000000000000000000000000008001
+19:52:12  INFO     0x000000000000000000000000bc989fde9e54cad2ab4392af6df60f04873a033a
+19:52:12  INFO [38;2;128;128;128m  Data (Hex):[0m 0x00000000000000000000000000000000000000000000000000003a5159e5e2c0
+19:52:12  INFO 
+19:52:12  INFO 
+19:52:12  INFO Validating [1m0x92739fa88b1511f8a223654a55d38ad5dfce575828092defae5bbc5bfba88b28[0m
+19:52:12  INFO Executing [1m0x92739fa88b1511f8a223654a55d38ad5dfce575828092defae5bbc5bfba88b28[0m
+19:52:12  INFO ┌─────────────────────────┐
+19:52:12  INFO │   TRANSACTION SUMMARY   │
+19:52:12  INFO └─────────────────────────┘
+19:52:12  INFO Transaction: [31mFAILED[0m
+19:52:12  INFO Initiator: 0xbc989fde9e54cad2ab4392af6df60f04873a033a
+19:52:12  INFO Payer: 0xbc989fde9e54cad2ab4392af6df60f04873a033a
+19:52:12  INFO Gas - Limit: 30_000_000 | Used: 1_040_443 | Refunded: 28_959_557
+19:52:12  INFO Use --show-gas-details flag or call config_setShowGasDetails to display more info
+19:52:12  INFO 
+19:52:12  INFO ==== Console logs: 
+19:52:12  INFO 
+19:52:12  INFO ==== [1m22 call traces. [0m Use --show-calls flag or call config_setShowCalls to display more info.
+19:52:12  INFO 
+19:52:12  INFO ==== [1m2 events[0m
+19:52:12  INFO [34mEthToken System Contract                  [0m
+19:52:12  INFO [38;2;128;128;128m  Topics:[0m
+19:52:12  INFO     0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+19:52:12  INFO     0x000000000000000000000000bc989fde9e54cad2ab4392af6df60f04873a033a
+19:52:12  INFO     0x0000000000000000000000000000000000000000000000000000000000008001
+19:52:12  INFO [38;2;128;128;128m  Data (Hex):[0m 0x0000000000000000000000000000000000000000000000000002aa1efb94e000
+19:52:12  INFO 
+19:52:12  INFO [34mEthToken System Contract                  [0m
+19:52:12  INFO [38;2;128;128;128m  Topics:[0m
+19:52:12  INFO     0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+19:52:12  INFO     0x0000000000000000000000000000000000000000000000000000000000008001
+19:52:12  INFO     0x000000000000000000000000bc989fde9e54cad2ab4392af6df60f04873a033a
+19:52:12  INFO [38;2;128;128;128m  Data (Hex):[0m 0x00000000000000000000000000000000000000000000000000029276ceb22940
+19:52:12  INFO 
+19:52:36  INFO 
+19:52:36  INFO Validating [1m0xd0f38281fed7ec92a552f769293f637296317a77fc0a0edf72f569a4a74f244f[0m
+19:52:36  INFO Executing [1m0xd0f38281fed7ec92a552f769293f637296317a77fc0a0edf72f569a4a74f244f[0m
+19:52:36  INFO ┌─────────────────────────┐
+19:52:36  INFO │   TRANSACTION SUMMARY   │
+19:52:36  INFO └─────────────────────────┘
+19:52:36  INFO Transaction: [32mSUCCESS[0m
+19:52:36  INFO Initiator: 0xbc989fde9e54cad2ab4392af6df60f04873a033a
+19:52:36  INFO Payer: 0xbc989fde9e54cad2ab4392af6df60f04873a033a
+19:52:36  INFO Gas - Limit: 10_865_793 | Used: 8_300_950 | Refunded: 2_564_843
+19:52:36  INFO Use --show-gas-details flag or call config_setShowGasDetails to display more info
+19:52:36  INFO 
+19:52:36  INFO ==== Console logs: 
+19:52:36  INFO 
+19:52:36  INFO ==== [1m21 call traces. [0m Use --show-calls flag or call config_setShowCalls to display more info.
+19:52:36  INFO 
+19:52:36  INFO ==== [1m3 events[0m
+19:52:36  INFO [34mEthToken System Contract                  [0m
+19:52:36  INFO [38;2;128;128;128m  Topics:[0m
+19:52:36  INFO     0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+19:52:36  INFO     0x000000000000000000000000bc989fde9e54cad2ab4392af6df60f04873a033a
+19:52:36  INFO     0x0000000000000000000000000000000000000000000000000000000000008001
+19:52:36  INFO [38;2;128;128;128m  Data (Hex):[0m 0x0000000000000000000000000000000000000000000000000000f70f3d4c9840
+19:52:36  INFO 
+19:52:36  INFO [34mL2 deployer                               [0m
+19:52:36  INFO [38;2;128;128;128m  Topics:[0m
+19:52:36  INFO     0x290afdae231a3fc0bbae8b1af63698b0a1d79b21ad17df0342dfb952fe74f8e5
+19:52:36  INFO     0x000000000000000000000000bc989fde9e54cad2ab4392af6df60f04873a033a
+19:52:36  INFO     0x010000492b255ea2310a72e302c3da0383ef8ebf1e7acf37e54f7e4086c83d81
+19:52:36  INFO     0x000000000000000000000000aaf5f437fb0524492886fba64d703df15bf619ae
+19:52:36  INFO [38;2;128;128;128m  Data: EMPTY[0m
+19:52:36  INFO 
+19:52:36  INFO [34mEthToken System Contract                  [0m
+19:52:36  INFO [38;2;128;128;128m  Topics:[0m
+19:52:36  INFO     0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+19:52:36  INFO     0x0000000000000000000000000000000000000000000000000000000000008001
+19:52:36  INFO     0x000000000000000000000000bc989fde9e54cad2ab4392af6df60f04873a033a
+19:52:36  INFO [38;2;128;128;128m  Data (Hex):[0m 0x00000000000000000000000000000000000000000000000000003a5159e5e2c0
+19:52:36  INFO 
+19:52:37  INFO 
+19:52:37  INFO Validating [1m0xcbd277dada17254d78dc712b040c0bbad0252bcd70df862d716791c7ba60f44f[0m
+19:52:37  INFO Executing [1m0xcbd277dada17254d78dc712b040c0bbad0252bcd70df862d716791c7ba60f44f[0m
+19:52:37  INFO ┌─────────────────────────┐
+19:52:37  INFO │   TRANSACTION SUMMARY   │
+19:52:37  INFO └─────────────────────────┘
+19:52:37  INFO Transaction: [31mFAILED[0m
+19:52:37  INFO Initiator: 0xbc989fde9e54cad2ab4392af6df60f04873a033a
+19:52:37  INFO Payer: 0xbc989fde9e54cad2ab4392af6df60f04873a033a
+19:52:37  INFO Gas - Limit: 1_000_000_000 | Used: 1_040_443 | Refunded: 998_959_557
+19:52:37  INFO Use --show-gas-details flag or call config_setShowGasDetails to display more info
+19:52:37  INFO 
+19:52:37  INFO ==== Console logs: 
+19:52:37  INFO 
+19:52:37  INFO ==== [1m22 call traces. [0m Use --show-calls flag or call config_setShowCalls to display more info.
+19:52:37  INFO 
+19:52:37  INFO ==== [1m2 events[0m
+19:52:37  INFO [34mEthToken System Contract                  [0m
+19:52:37  INFO [38;2;128;128;128m  Topics:[0m
+19:52:37  INFO     0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+19:52:37  INFO     0x000000000000000000000000bc989fde9e54cad2ab4392af6df60f04873a033a
+19:52:37  INFO     0x0000000000000000000000000000000000000000000000000000000000008001
+19:52:37  INFO [38;2;128;128;128m  Data (Hex):[0m 0x0000000000000000000000000000000000000000000000000058d15e17628000
+19:52:37  INFO 
+19:52:37  INFO [34mEthToken System Contract                  [0m
+19:52:37  INFO [38;2;128;128;128m  Topics:[0m
+19:52:37  INFO     0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+19:52:37  INFO     0x0000000000000000000000000000000000000000000000000000000000008001
+19:52:37  INFO     0x000000000000000000000000bc989fde9e54cad2ab4392af6df60f04873a033a
+19:52:37  INFO [38;2;128;128;128m  Data (Hex):[0m 0x0000000000000000000000000000000000000000000000000058b9b5ea7fc940
+19:52:37  INFO 
+19:53:15  INFO 
+19:53:15  INFO Validating [1m0x1321c224f9693564501f3938b084ab249a170ed93556b3ea3d9fa4b71855cb0c[0m
+19:53:15  INFO Executing [1m0x1321c224f9693564501f3938b084ab249a170ed93556b3ea3d9fa4b71855cb0c[0m
+19:53:15  INFO ┌─────────────────────────┐
+19:53:15  INFO │   TRANSACTION SUMMARY   │
+19:53:15  INFO └─────────────────────────┘
+19:53:15  INFO Transaction: [32mSUCCESS[0m
+19:53:15  INFO Initiator: 0xbc989fde9e54cad2ab4392af6df60f04873a033a
+19:53:15  INFO Payer: 0xbc989fde9e54cad2ab4392af6df60f04873a033a
+19:53:15  INFO Gas - Limit: 10_865_793 | Used: 8_300_950 | Refunded: 2_564_843
+19:53:15  INFO Use --show-gas-details flag or call config_setShowGasDetails to display more info
+19:53:15  INFO 
+19:53:15  INFO ==== Console logs: 
+19:53:15  INFO 
+19:53:15  INFO ==== [1m21 call traces. [0m Use --show-calls flag or call config_setShowCalls to display more info.
+19:53:15  INFO 
+19:53:15  INFO ==== [1m3 events[0m
+19:53:15  INFO [34mEthToken System Contract                  [0m
+19:53:15  INFO [38;2;128;128;128m  Topics:[0m
+19:53:15  INFO     0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+19:53:15  INFO     0x000000000000000000000000bc989fde9e54cad2ab4392af6df60f04873a033a
+19:53:15  INFO     0x0000000000000000000000000000000000000000000000000000000000008001
+19:53:15  INFO [38;2;128;128;128m  Data (Hex):[0m 0x0000000000000000000000000000000000000000000000000000f70f3d4c9840
+19:53:15  INFO 
+19:53:15  INFO [34mL2 deployer                               [0m
+19:53:15  INFO [38;2;128;128;128m  Topics:[0m
+19:53:15  INFO     0x290afdae231a3fc0bbae8b1af63698b0a1d79b21ad17df0342dfb952fe74f8e5
+19:53:15  INFO     0x000000000000000000000000bc989fde9e54cad2ab4392af6df60f04873a033a
+19:53:15  INFO     0x010000492b255ea2310a72e302c3da0383ef8ebf1e7acf37e54f7e4086c83d81
+19:53:15  INFO     0x00000000000000000000000023b13d016e973c9915c6252271ff06cca2098885
+19:53:15  INFO [38;2;128;128;128m  Data: EMPTY[0m
+19:53:15  INFO 
+19:53:15  INFO [34mEthToken System Contract                  [0m
+19:53:15  INFO [38;2;128;128;128m  Topics:[0m
+19:53:15  INFO     0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+19:53:15  INFO     0x0000000000000000000000000000000000000000000000000000000000008001
+19:53:15  INFO     0x000000000000000000000000bc989fde9e54cad2ab4392af6df60f04873a033a
+19:53:15  INFO [38;2;128;128;128m  Data (Hex):[0m 0x00000000000000000000000000000000000000000000000000003a5159e5e2c0
+19:53:15  INFO 
+19:53:15  INFO [31mUnable to estimate gas for the request with our suggested gas limit of 105375000. The transaction is most likely unexecutable. Breakdown of estimation:[0m
+19:53:15  INFO [31m	Estimated transaction body gas cost: 80000000[0m
+19:53:15  INFO [31m	Gas for pubdata: 1050000[0m
+19:53:15  INFO [31m	Overhead: 10000[0m
+19:53:15  INFO [41mexecution reverted: Error function_selector = 0xb0591126, data = 0xb0591126[0m
