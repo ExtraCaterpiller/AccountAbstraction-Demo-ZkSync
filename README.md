@@ -9,7 +9,7 @@ npm install
 3. Fix environment variables:
 ```
 WALLET_PRIVATE_KEY = <private key of your metamask wallet>
-RICH_ACCOUNT_PRIVATE_KEY = <private key of any zksync inmemory node account>
+RICH_ACCOUNTS_PRIVATE_KEY = <private key of any zksync inmemory node account>
 ```
 4. Run:
 ```
