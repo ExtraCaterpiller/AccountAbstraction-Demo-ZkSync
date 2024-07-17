@@ -5,8 +5,8 @@ const fs = require("fs")
 const path = require("path")
 
 module.exports = async () => {
-    const wallet = new Wallet(process.env.RICH_ACCOUNTS_PRIVATE_KEY)
-    //const wallet = new Wallet(process.env.WALLET_PRIVATE_KEY)
+    //const wallet = new Wallet(process.env.RICH_ACCOUNTS_PRIVATE_KEY)
+    const wallet = new Wallet(process.env.WALLET_PRIVATE_KEY)
     const deployer = new Deployer(hre, wallet)
 
     const aaFactoryArtifact = await deployer.loadArtifact("AAFactory")

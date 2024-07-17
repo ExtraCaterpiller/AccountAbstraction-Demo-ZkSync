@@ -5,10 +5,10 @@ const addresses = require("../address.json")
 const AA_FACTORY_ADDRESS = addresses[network.config.chainId]
 
 module.exports = async () => {
-    const provider = new Provider(userConfig.networks.zkSyncTestnet.url)
-    //const provider = new Provider(userConfig.networks.zkSyncSepoliaTestnet.url)
-    const wallet = new Wallet(process.env.RICH_ACCOUNTS_PRIVATE_KEY).connect(provider)
-    //const wallet = new Wallet(process.env.WALLET_PRIVATE_KEY).connect(provider)
+    //const provider = new Provider(userConfig.networks.zkSyncTestnet.url)
+    const provider = new Provider(userConfig.networks.zkSyncSepoliaTestnet.url)
+    //const wallet = new Wallet(process.env.RICH_ACCOUNTS_PRIVATE_KEY).connect(provider)
+    const wallet = new Wallet(process.env.WALLET_PRIVATE_KEY).connect(provider)
     
     const factoryArtifact = await artifacts.readArtifact("AAFactory")
     const aaFactory = new ethers.Contract(
@@ -35,7 +35,7 @@ module.exports = async () => {
 
     console.log(`Multisig account deployed on address ${multisigAddress}`)
 
-    console.log("Sending funds to multisig account");
+    console.log("Sending funds to multisig account...");
     // Send funds to the multisig account we just deployed
     await (
         await wallet.sendTransaction({
@@ -70,7 +70,7 @@ module.exports = async () => {
         gasPrice: gasPrice,
         chainId: (await provider.getNetwork()).chainId,
         nonce: await provider.getTransactionCount(multisigAddress),
-        type: 113,
+        type: utils.EIP712_TX_TYPE,
         customData: {
             gasPerPubdata: utils.DEFAULT_GAS_PER_PUBDATA_LIMIT,
         },
@@ -91,9 +91,9 @@ module.exports = async () => {
     }
 
     console.log(`The multisig's nonce before the first tx is ${await provider.getTransactionCount(multisigAddress)}`)
-    console.log("aaTx: ", aaTx)
-    const sentTx = await provider.broadcastTransaction(types.Transaction.from(aaTx).serialized)
-    //const sentTx = await provider.broadcastTransaction(utils.serializeEip712(aaTx))
+    
+    //const sentTx = await provider.broadcastTransaction(types.Transaction.from(aaTx).serialized)
+    const sentTx = await provider.broadcastTransaction(utils.serializeEip712(aaTx))
     console.log(`Transaction sent from multisig with hash ${sentTx.hash}`)
     await sentTx.wait()
 

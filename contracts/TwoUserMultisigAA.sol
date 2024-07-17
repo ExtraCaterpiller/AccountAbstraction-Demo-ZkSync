@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.19;
+pragma solidity ^0.8.20;
 
 import "@matterlabs/zksync-contracts/l2/system-contracts/interfaces/IAccount.sol";
 import "@matterlabs/zksync-contracts/l2/system-contracts/libraries/TransactionHelper.sol";
@@ -117,12 +117,11 @@ contract TwoUserMultisigAA is IAccount, IERC1271 {
         );
 
         bytes32 txHash = _transaction.encodeHash();
-
         // The fact there is enough balance for the account
         // should be checked explicitly to prevent user paying for fee for a
         // transaction that wouldn't be included on Ethereum.
         uint256 totalRequiredBalance = _transaction.totalRequiredBalance();
-        if (totalRequiredBalance <= address(this).balance) {
+        if (totalRequiredBalance > address(this).balance) {
             revert TwoUserMultisigAA__NotEnoughBalance();
         }
 
