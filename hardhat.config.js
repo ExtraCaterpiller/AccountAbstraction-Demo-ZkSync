@@ -11,7 +11,7 @@ module.exports = {
     },
   },
   solidity: {
-    version: "0.8.20",
+    version: "0.8.19",
     eraVersion: "1.0.0",
     settings: {
       optimizer: {

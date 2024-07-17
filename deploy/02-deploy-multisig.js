@@ -22,7 +22,7 @@ module.exports = async () => {
     
     const salt = ethers.ZeroHash;
     
-    const tx = await aaFactory.deployAccount(salt, owner1.address, owner2.address, {gasLimit: BigInt("30000000")})
+    const tx = await aaFactory.deployAccount(salt, owner1.address, owner2.address)
     await tx.wait()
     
     const abiCoder = new ethers.AbiCoder()
@@ -61,7 +61,7 @@ module.exports = async () => {
         from: wallet.address,
     })
     const gasPrice = await provider.getGasPrice()
-
+    
     aaTx = {
         ...aaTx,
         // deploy a new account using the multisig
@@ -78,7 +78,7 @@ module.exports = async () => {
     }
 
     const signedTxHash = EIP712Signer.getSignedDigest(aaTx)
-
+    
     // Sign the transaction with both owners
     const signature = ethers.concat([
         ethers.Signature.from(owner1.signingKey.sign(signedTxHash)).serialized,
@@ -91,8 +91,9 @@ module.exports = async () => {
     }
 
     console.log(`The multisig's nonce before the first tx is ${await provider.getTransactionCount(multisigAddress)}`)
-
+    console.log("aaTx: ", aaTx)
     const sentTx = await provider.broadcastTransaction(types.Transaction.from(aaTx).serialized)
+    //const sentTx = await provider.broadcastTransaction(utils.serializeEip712(aaTx))
     console.log(`Transaction sent from multisig with hash ${sentTx.hash}`)
     await sentTx.wait()
 

@@ -32,6 +32,7 @@ module.exports = async () => {
     const aaFactory = await deployer.deploy(
         aaFactoryArtifact,
         [bytecodeHash],
+        "create",
         undefined,
         [aaTwoUserMultisig.bytecode,]
     )
